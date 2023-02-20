@@ -3,15 +3,15 @@
 
 ###### Algorithms
 
-. Bubble sort
-. Selection sort
-. Insertion sort
-. Quick sort
-. Shell sort
-. Cocktail shaker sort
-. Counting sort
-. Merge sort
-. Heap sort
-. Radix sort
-. Bitonic sort
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Quick sort
+- Shell sort
+- Cocktail shaker sort
+- Counting sort
+- Merge sort
+- Heap sort
+- Radix sort
+- Bitonic sort
 
